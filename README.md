@@ -1,3 +1,4 @@
+
 # Daily Life Management System
 
 The Daily Life Management System is a Python-based desktop application that leverages PyQt5 to offer comprehensive tools for managing everyday tasks and projects. Its intuitive interface and powerful features are designed to enhance productivity by organizing various aspects of your daily life—from medical appointments and business meetings to personal projects and creative brainstorming.
@@ -25,3 +26,25 @@ The Daily Life Management System is a Python-based desktop application that leve
 ## Installation
 
 1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/daily-life-management.git
+   cd daily-life-management
+   ```
+
+2. Install necessary dependencies (make sure Python and PyQt5 are installed):
+   ```
+   pip install PyQt5
+   ```
+
+3. Run the application:
+   ```
+   python main.py
+   ```
+
+## Usage
+
+1. Launch the application.
+2. Navigate through the modules: Tasks, Projects, Appointments, Brainstorming.
+3. Add, edit, or delete entries as necessary.
+4. Enjoy enhanced organization and productivity in your daily life!
+
